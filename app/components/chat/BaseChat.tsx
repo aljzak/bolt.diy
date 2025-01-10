@@ -327,7 +327,7 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
                SolBuild
                 </h1>
                 <p className="text-md lg:text-xl mb-8 text-bolt-elements-textSecondary animate-fade-in animation-delay-200">
-                  orget about dragging and dropping. Simply describe your vision, and SolBuild brings it to life.
+                  Forget about dragging and dropping. Simply describe your vision, and SolBuild brings it to life.
                 </p>
               </div>
             )}
